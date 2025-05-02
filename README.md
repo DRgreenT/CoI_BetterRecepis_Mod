@@ -1,6 +1,6 @@
 # Better Recepis - Captain of Indusrty Mod
 
-*** for Captain of Industry 0.6.4d
+***for Captain of Industry 0.6.4d***
 
 [Source code](https://github.com/DRgreenT/COI_BetterRecipes_Source_Code)
 
