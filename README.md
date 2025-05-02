@@ -9,6 +9,7 @@
 ### Scrap smelting
 -  Improved scrap smelting for Tier I and II blast furnaces (reduced coal consumption and lower exhaust emissions); both must be researched.
 <img src="https://github.com/DRgreenT/CoI_BetterRecepis_Mod/blob/master/docs/impr.scrap.png" width="400">
+<img src="https://github.com/DRgreenT/CoI_BetterRecepis_Mod/blob/master/docs/impr2.scrap.png" width="400">
 ---
 
 ### Solar thermal steam generating
