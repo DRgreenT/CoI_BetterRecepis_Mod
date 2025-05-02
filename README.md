@@ -1,6 +1,6 @@
 # Better Recepis - Captain of Indusrty Mod
 
-[Source code] (https://github.com/DRgreenT/COI_BetterRecipes_Source_Code)
+[Source code](https://github.com/DRgreenT/COI_BetterRecipes_Source_Code)
 
 ---
 
